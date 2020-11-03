@@ -157,7 +157,6 @@ footer {
 /* trainers section */
 .trainers {
     text-align: center;
-    overflow: auto;
 }
 .trainer {
     width: 900px;
@@ -196,6 +195,7 @@ footer {
     font-size: 17px;
     line-height: 1.3;
 }
+/* reach out styles start */
 .section-title {
     font-size: 55px;
     display: inline-block;
@@ -204,7 +204,6 @@ footer {
     margin-bottom: 35px;
     color: #024e76;
 }
-/* REACH OUT STYLES START*/
 .contact {
     text-align: center;
     background: #024e76;
@@ -215,6 +214,7 @@ footer {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+
 }
 .contact-info div {
     width: 410px;
@@ -233,6 +233,7 @@ footer {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    text-align: left;
 }
 .contact-info a {
     color: #fce138;
