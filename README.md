@@ -1,10 +1,10 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services
+A website that offers fitness training services. 
 
 ## Built With
-* HTML 
+* HTML
 * CSS
 
 ## Website
@@ -12,3 +12,5 @@ https://MicahPellum.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Micah Pellum
+
+### ©️2019 Run Buddy, Inc 
